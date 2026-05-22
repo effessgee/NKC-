@@ -1,0 +1,8 @@
+{
+  "name": "CleanTrack MEP",
+  "description": "Pakistan nationwide janitorial and Mechanical, Electrical, and Plumbing (MEP) monitoring ledger. Features four-tier user portal workflows, biometric scanning simulations, drawing signature panels, and real-time dispatch dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
